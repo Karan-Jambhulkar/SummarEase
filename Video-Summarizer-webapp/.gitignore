@@ -1,0 +1,14 @@
+backend/venv/
+node_modules/
+.env
+__pycache__/
+dist/
+build/
+*.pyc
+
+# Python virtual env inside backend
+
+# Optional
+*.mp4
+*.wav
+*.log
